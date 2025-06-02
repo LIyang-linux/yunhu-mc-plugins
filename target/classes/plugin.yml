@@ -1,0 +1,6 @@
+name: ChatYunhu
+version: 0.0.1
+main: com.liyang.chatyunhu.ChatYunhu
+api-version: "1.20"
+description: YunHubot
+author: LiYang

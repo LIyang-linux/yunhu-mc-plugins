@@ -1,0 +1,39 @@
+# Bot ID
+bot-token: ""
+
+# Group ID
+group-id: ""
+
+# bot ID
+bot-user-id: ""
+
+#
+last-message-id: ""
+
+#
+enable-join-message: true
+
+#
+enable-quit-message: true
+
+#
+block-commands: true
+
+# Blocking words
+blocked-words:
+  - "fuck"
+  - "shit"
+  - "asshole"
+  - "bitch"
+  - "idiot"
+  - "moron"
+  - "bastard"
+  - "cunt"
+  - "dick"
+  - "pussy"
+  - "nigger"
+  - "whore"
+  - "slut"
+  - "retard"
+  - "damn"
+  - "hell"
